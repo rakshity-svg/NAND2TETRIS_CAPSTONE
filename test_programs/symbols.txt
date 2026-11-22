@@ -1,0 +1,30 @@
+=== SYMBOLS TABLE (Labels & Variables) ===
+SYMBOL               TYPE         ADDRESS (DEC)   ADDRESS (HEX)  
+--------------------------------------------------------------
+R0                   PREDEFINED   0               0x0000
+SP                   PREDEFINED   0               0x0000
+LCL                  PREDEFINED   1               0x0001
+R1                   PREDEFINED   1               0x0001
+ARG                  PREDEFINED   2               0x0002
+R2                   PREDEFINED   2               0x0002
+R3                   PREDEFINED   3               0x0003
+THIS                 PREDEFINED   3               0x0003
+R4                   PREDEFINED   4               0x0004
+THAT                 PREDEFINED   4               0x0004
+R5                   PREDEFINED   5               0x0005
+R6                   PREDEFINED   6               0x0006
+R7                   PREDEFINED   7               0x0007
+R8                   PREDEFINED   8               0x0008
+R9                   PREDEFINED   9               0x0009
+LOOP                 LABEL (ROM)  10              0x000A
+R10                  PREDEFINED   10              0x000A
+R11                  PREDEFINED   11              0x000B
+R12                  PREDEFINED   12              0x000C
+R13                  PREDEFINED   13              0x000D
+R14                  PREDEFINED   14              0x000E
+R15                  PREDEFINED   15              0x000F
+counter              VAR (RAM)    16              0x0010
+address              VAR (RAM)    17              0x0011
+INFINITE_LOOP        LABEL (ROM)  23              0x0017
+SCREEN               PREDEFINED   16384           0x4000
+KBD                  PREDEFINED   24576           0x6000
